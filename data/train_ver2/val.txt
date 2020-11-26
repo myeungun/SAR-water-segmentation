@@ -1,0 +1,6 @@
+val/img/WTR00001_K5_NIA0184.tif	val/mask/WTR00001_K5_NIA0184_label.tif
+val/img/WTR00002_K5_NIA0184.tif	val/mask/WTR00002_K5_NIA0184_label.tif
+val/img/WTR00003_K5_NIA0184.tif	val/mask/WTR00003_K5_NIA0184_label.tif
+val/img/WTR00004_K5_NIA0184.tif	val/mask/WTR00004_K5_NIA0184_label.tif
+val/img/WTR00006_K5_NIA0184.tif	val/mask/WTR00006_K5_NIA0184_label.tif
+val/img/WTR00008_K5_NIA0184.tif	val/mask/WTR00008_K5_NIA0184_label.tif
