@@ -3,6 +3,29 @@
 ## 아리랑 위성 5호 영상(KOMPSAT-5)을 활용한 딥러닝 기반 수계 검출 알고리즘의 적용
 ![image](https://user-images.githubusercontent.com/26617052/100533894-de18c280-324c-11eb-89b2-57352d229753.png)
 
+### 개발 환경
+- CUDA 10.0
+- Python 3.7.7
+- Tensorflow 1.14.0
+- PyTorch 0.4.1
+- Keras 2.3.
+
+### Dependencies 설치
+```
+cd /SAR-water-segmentation/HRNet/
+pip install –r requirements.txt
+```
+
+### Dataset
+#### Training dataset 위치
+```
+/SAR-water-segmentation/data/train_full/
+```
+#### Test dataset 위치
+```
+/SAR-water-segmentation/data/test_full/
+```
+
 ## 딥러닝 알고리즘 1: FCN(Fully Convolutional Network) [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
 ![image](https://user-images.githubusercontent.com/26617052/100533941-7020cb00-324d-11eb-976c-863e07dc98c5.png)
 
