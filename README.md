@@ -4,6 +4,7 @@
 ![image](https://user-images.githubusercontent.com/26617052/100533894-de18c280-324c-11eb-89b2-57352d229753.png)
 
 ## 딥러닝 알고리즘 1: FCN(Fully Convolutional Network)
+[[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
 ![image](https://user-images.githubusercontent.com/26617052/100533941-7020cb00-324d-11eb-976c-863e07dc98c5.png)
 
 ## 딥러닝 알고리즘 2: U-Net
