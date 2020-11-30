@@ -11,9 +11,9 @@ PRINT_FREQ: 50
 DATASET:
   DATASET: K5
   ROOT: '../../data/'
-  TEST_SET: 'train_ver2/val.txt'
-  TEST_RESULT: 'val/result_HRNet/'
-  TRAIN_SET: 'train_ver2/train.txt'
+  TEST_SET: 'train_full/val.txt'
+  TEST_RESULT: 'val_full/result_HRNet/'
+  TRAIN_SET: 'train_full/train.txt'
   NUM_CLASSES: 2
 MODEL:
   NAME: seg_hrnet
