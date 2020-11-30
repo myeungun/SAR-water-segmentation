@@ -27,7 +27,7 @@ pip install –r requirements.txt
 ```
 ### Test dataset 위치
 ```
-/SAR-water-segmentation/data/test_full/
+/SAR-water-segmentation/data/val_full/
 ```
 
 # 딥러닝 알고리즘 1: FCN(Fully Convolutional Network) [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
