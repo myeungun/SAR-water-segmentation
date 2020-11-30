@@ -163,6 +163,7 @@ def main():
     epoch_iters = np.int(train_dataset.__len__() /
                          config.TRAIN.BATCH_SIZE_PER_GPU / len(gpus))
 
+
     model_state_file = os.path.join(final_output_dir, 'best.pth')
     if os.path.isfile(model_state_file):
         checkpoint = torch.load(model_state_file)
