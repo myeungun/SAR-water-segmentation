@@ -62,6 +62,11 @@ python main_DeepUNet.py
 
 # 딥러닝 알고리즘 4: HRNet(High Resolution Network) [[Paper]](https://arxiv.org/pdf/1908.07919.pdf), [[Code]](https://github.com/HRNet/HRNet-Semantic-Segmentation)
 ![image](https://user-images.githubusercontent.com/26617052/100533991-f50be480-324d-11eb-8802-d470b8e5b012.png)
+## Training code 실행
+```
+cd /SAR-water-segmentation/HRNet/tools/
+python main_HRNet_train.py
+```
 ## Test code 실행
 ```
 cd /SAR-water-segmentation/HRNet/tools/
