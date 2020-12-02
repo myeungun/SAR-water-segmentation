@@ -7,6 +7,10 @@
 
 이러한 전통적인 수계 탐지 기법의 단점을 극복하며, 다량의 SAR 영상을 자동으로 빠르게 처리하기 위해서 딥러닝의 적용은 필수불가결하다. 이에 한국항공우주연구원 인공지능연구실에서는 FCN, U-Net, HRNet 등 대표적인 딥러닝 이미지 분할 기법 활용과 더불어 SAR 영상의 지역적 입사각 정보, 레이더 그림자 및 레이오버 정보를 담고 있는 GIM(Geocoded Incidence angle Mask) 정보를 활용하여 수계 검출 자동화 연구를 진행 중이다.
 
+```
+git clone https://github.com/myeungun/SAR-water-segmentation.git
+```
+
 ## 개발 환경
 - CUDA 10.0
 - Python 3.7.7
