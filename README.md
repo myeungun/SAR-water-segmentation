@@ -20,6 +20,11 @@ cd /SAR-water-segmentation/HRNet/
 pip install –r requirements.txt
 ```
 
+## Anaconda로 yml 파일을 이용한 환경 설정
+```
+conda env create -f water_seg.yml
+```
+
 ## Dataset
 ### Training dataset 위치
 ```
