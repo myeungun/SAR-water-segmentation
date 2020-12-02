@@ -26,17 +26,17 @@ conda env create -f water_seg.yml
 ```
 
 ## Dataset
-### Training dataset 위치
+### Training dataset 위치 [[Link]](https://arxiv.org/pdf/1505.04597.pdf)
 ```
 /SAR-water-segmentation/data/train_full/
 ```
-### Test dataset 위치
+### Test dataset 위치 [[Link]](https://arxiv.org/pdf/1505.04597.pdf)
 ```
 /SAR-water-segmentation/data/val_full/
 ```
 
 ## Pretrained model
-### ImageNet dataset으로 미리 학습된 모델 위치
+### ImageNet dataset으로 미리 학습된 모델 위치 [[Link]](https://arxiv.org/pdf/1505.04597.pdf)
 ```
 /SAR-water-segmentation/HRNet/tools/pretrained_models/
 ```
