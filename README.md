@@ -26,24 +26,24 @@ conda env create -f water_seg.yml
 ```
 
 ## Dataset
-### Training dataset 위치 [[Link]](https://arxiv.org/pdf/1505.04597.pdf)
+- Training dataset 위치 [[Link]](https://arxiv.org/pdf/1505.04597.pdf)
 ```
 /SAR-water-segmentation/data/train_full/
 ```
-### Test dataset 위치 [[Link]](https://arxiv.org/pdf/1505.04597.pdf)
+- Test dataset 위치 [[Link]](https://arxiv.org/pdf/1505.04597.pdf)
 ```
 /SAR-water-segmentation/data/val_full/
 ```
 
 ## Pretrained model
-### HRNetV2를 새롭게 training을 할 경우
-#### ImageNet dataset으로 미리 학습된 모델 위치 [[Link]](https://arxiv.org/pdf/1505.04597.pdf)
+- HRNetV2를 새롭게 training을 할 경우
+ImageNet dataset으로 미리 학습된 모델 위치 [[Link]](https://arxiv.org/pdf/1505.04597.pdf)
 ```
 /SAR-water-segmentation/HRNet/tools/pretrained_models/
 ```
 
-### HRNetV2를 test 할 경우
-#### K5 Training dataset으로 학습된 모델 위치 [[Link]](https://arxiv.org/pdf/1505.04597.pdf)
+- HRNetV2를 test 할 경우
+K5 Training dataset으로 학습된 모델 위치 [[Link]](https://arxiv.org/pdf/1505.04597.pdf)
 ```
 /SAR-water-segmentation/HRNet/tools/output/K5/K5/models/best.pth
 ```
