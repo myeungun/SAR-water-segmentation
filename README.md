@@ -35,6 +35,12 @@ conda env create -f water_seg.yml
 /SAR-water-segmentation/data/val_full/
 ```
 
+## Pretrained model
+### ImageNet dataset으로 미리 학습된 모델 위치
+```
+/SAR-water-segmentation/HRNet/tools/pretrained_models/
+```
+
 # 딥러닝 알고리즘 1: FCN(Fully Convolutional Network) [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
 ![image](https://user-images.githubusercontent.com/26617052/100533941-7020cb00-324d-11eb-976c-863e07dc98c5.png)
 ## Test code 실행
