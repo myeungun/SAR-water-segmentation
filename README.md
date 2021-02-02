@@ -1,7 +1,7 @@
 # Deep Learning based Water Segmentation Using KOMPSAT-5 SAR Images
 ## Some results
 <img src="https://user-images.githubusercontent.com/26617052/106559149-50b55f80-6568-11eb-9fcc-f78bb63819b9.JPG"  width="450">
-- This shows the performance result of HRNet with the full dataset. The images on the left are ground truth, and the images on the right are predicted results. The IoU of the upper and lower images are 94.76% and 97.45%, respectively.
+- This shows the performance result of HRNet with our KOMPSAT-5 dataset. The images on the left are ground truth, and the images on the right are predicted results. The IoU of the upper and lower images are 94.76% and 97.45%, respectively.
 
 ## Abstract
 Depending on weather conditions, optical satellites might not acquire image information of a region of interest (ROI). This is a major drawback in emergency disaster which require real-time monitoring and damage analysis. In particular, one of the most serious disasters, floods, always accompany clouds. As a result, there are difficulties in flood detection, i.e., water detection, using optical satellite images. While, Synthetic Aperture Radar (SAR) satellite has the advantage of acquiring images regardless of weather conditions such as cloud and rain. Therefore, we can effectively perform flood monitoring and damage analysis for the ROI through water detection using SAR satellite images. 
