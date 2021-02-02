@@ -1,6 +1,6 @@
 # Deep Learning based Water Segmentation Using KOMPSAT-5 SAR Images
 ## Some results
-![image](https://user-images.githubusercontent.com/26617052/106544007-2f457b00-654a-11eb-9c53-c158f20c76c6.JPG)
+![image](https://user-images.githubusercontent.com/26617052/106559149-50b55f80-6568-11eb-9fcc-f78bb63819b9.JPG)
 - This shows the performance result of HRNet with the full dataset. The images on the left are ground truth, and the images on the right are predicted results. The IoU of the upper and lower images are 94.76\% and 97.45\%, respectively.
 
 ## Abstract
