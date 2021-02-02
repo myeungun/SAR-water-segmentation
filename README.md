@@ -5,6 +5,8 @@ Depending on weather conditions, optical satellites might not acquire image info
 
 In this paper, we propose a deep learning-based water segmentation using KOrean Multi-Purpose SATellite (KOMPSAT-5) images. To efficiently develop the deep learning-based model, we create a SAR water dataset for over 3,000 sheets based on KOMPSAT-5. And We perform water segmentation using representative deep learning-based segmentation models such as Fully Convolutional Networks (FCN), U-Net, DeepUNet, and High Resolution Network (HRNet). Experimental results show that HRNet performs the highest accuracy, i.e, this model achieves more than 80\% IoU (Intersection over Union). 
 
+## How to use it
+- First of all, clone the code
 ```
 git clone https://github.com/kari-ai/kari_water_seg.git
 ```
