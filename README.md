@@ -11,7 +11,7 @@ In this paper, we propose a deep learning-based water segmentation using KOrean 
 ## How to use it
 - First of all, clone the code
 ```
-git clone https://github.com/kari-ai/kari_water_seg.git
+git clone https://github.com/myeungun/SAR-water-segmentation.git
 ```
 
 ## Prerequisites
@@ -72,12 +72,10 @@ python main_HRNet.py
 ## Test code 
 - Backbone: VGG16
 ```
-export TF_XLA_FLAGS=--tf_xla_cpu_global_jit 
 python main_FCN_VGG16.py
 ```
 - Backbone: VGG19
 ```
-export TF_XLA_FLAGS=--tf_xla_cpu_global_jit 
 python main_FCN_VGG19.py
 ```
 
@@ -86,7 +84,6 @@ python main_FCN_VGG19.py
 
 ## Test code
 ```
-export TF_XLA_FLAGS=--tf_xla_cpu_global_jit 
 python main_UNet.py
 ```
 
@@ -95,6 +92,5 @@ python main_UNet.py
 
 ## Test code 
 ```
-export TF_XLA_FLAGS=--tf_xla_cpu_global_jit 
 python main_DeepUNet.py
 ```
