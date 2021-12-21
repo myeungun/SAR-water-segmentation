@@ -11,12 +11,13 @@ In this paper, we propose a deep learning-based water segmentation using KOrean 
 ## Citing
 If you find this project useful in your research, please consider citing: 
 ```
-@article{SARwaterDataset,
-  title={Deep Learning Based Water Segmentation Using KOMPSAT-5 SAR Images},
+@INPROCEEDINGS{IROS2021_SARdataset,
   author={Kim, Myeung Un and Oh, Han and Lee, Seung-Jae and Choi, Yeonju and Han, Sanghyuck},
-  journal={IEEE International Geoscience and Remote Sensing Symposium (IGARSS)},
+  booktitle={2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={A Large-Scale Dataset for Water Segmentation of SAR Satellite}, 
   year={2021},
-}
+  pages={9796-9801},
+  doi={10.1109/IROS51168.2021.9635863}}
 
 ```
 
