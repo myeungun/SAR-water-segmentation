@@ -59,7 +59,7 @@ This model is a pre-trained model with ImageNet dataset, NOT our KOMPSAT-5 datas
 ```
 
 - When testing the HRNet, download this model and put it in the path below
-This model is a pre-trained model with ImageNet dataset, AND our KOMPSAT-5 dataset. [[Link]]()
+This model is a pre-trained model with ImageNet dataset, AND our KOMPSAT-5 dataset. [[Link]](https://drive.google.com/file/d/1gfLbsv9_6ZNtG7K3bmUf2r1Ig0CfQHIo/view?usp=sharing)
 ```
 /SAR-water-segmentation/HRNet/tools/output/K5/K5/models/best.pth
 ```
